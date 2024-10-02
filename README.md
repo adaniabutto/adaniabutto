@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Adani :)
 
-I’m a **Ph.D. student** in Cognitive Science at Stanford University, where I’m advised by the wonderful [Prof. Hyo Gweon](http://sll.stanford.edu/)!
+I’m a Cognitive Science researcher and Ph.D. student at Stanford University, where I’m advised by the wonderful [Prof. Hyo Gweon](http://sll.stanford.edu/)!
 
 learn more @ [stanford.edu/~aabutto](https://www.adaniabutto.com/)
 
